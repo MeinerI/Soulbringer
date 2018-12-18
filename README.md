@@ -13,7 +13,7 @@ map2ply.cs - текструры можно рипнуть NinjaRipper .
 ob2obj(with_duplication_of_vertices).cs - дублируются вершины и ув .
 ob2obj(without_duplicating_vertices).cs - убраны дубли вершин . 
 
-ob2ply.cs	- формат ply хранит вершины без дублирования ув и координат (?)
+ob2ply.cs - формат ply хранит вершины без дублирования ув и координат (?)
 Все модели должны находится в папке с ob2ply.exe .
 
 ob2ply(search_in_subfolders).cs - (улучшенная версия) ищет и конвертит модели прямо в папках своего уровня . 
