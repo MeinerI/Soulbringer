@@ -17,9 +17,9 @@ map2ply.cs - текструры можно рипнуть NinjaRipper .
 
 ВНИМАНИЕ ! Эти модели битые и при конвертировании выбрасывается исключение .
 
-level\dune\thardtop.OB
-level\mine\FACETR.OB
-level\mine\HUT2.OB
+level\dune\thardtop.OB, 
+level\mine\FACETR.OB, 
+level\mine\HUT2.OB, 
 level\mine\store.ob
 
 **************************************************************************************************
